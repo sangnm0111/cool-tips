@@ -17,3 +17,7 @@ Cool tips for web developers
 ### CSS
 
 - [Boring Fade-in](css/boring-fade-in.md)
+
+### Javascript
+
+- [Greensock - The standard for modern web animation](https://greensock.com/)
